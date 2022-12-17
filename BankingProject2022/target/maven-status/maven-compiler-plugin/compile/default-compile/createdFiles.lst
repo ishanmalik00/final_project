@@ -1,0 +1,8 @@
+com\mycompany\bankingproject2022\deposit_amount.class
+com\mycompany\bankingproject2022\database_access\DBLoader.class
+com\mycompany\bankingproject2022\GetAllCustomers.class
+com\mycompany\bankingproject2022\withdraw_amount.class
+com\mycompany\bankingproject2022\CheckLogin.class
+com\mycompany\bankingproject2022\AddCustomer.class
+com\mycompany\bankingproject2022\utility.class
+com\mycompany\bankingproject2022\pojo\Customer.class
